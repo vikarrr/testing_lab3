@@ -1,0 +1,7 @@
+# Ігноруємо папку .vs (файли Visual Studio)
+.vs/
+
+# Ігноруємо тимчасові файли
+.vsconfig
+.vs/metadata/
+.vs/slnx/
